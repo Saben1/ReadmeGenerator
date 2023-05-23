@@ -113,6 +113,10 @@ function init() {
     const readmeContent = `
 # ${answers.projectTitle}
 
+
+
+https://github.com/Saben1/ReadmeGenerator/assets/127642875/426a4dfb-d654-41a5-82ed-500bbfe34a6b
+
 ${licenseBadge}
 
 ## Description
@@ -132,6 +136,13 @@ This application is covered under the ${answers.license} license.
 
 ## Contributing
 ${answers.contributing}
+
+##Screenshots
+![screenshot1](./sc1.png)
+![screenshot2](./sc2.png)
+![screenshot3](./sc3.png)
+![screenshot4](./sc4.png)
+
 
 ## Tests
 ${answers.tests}
